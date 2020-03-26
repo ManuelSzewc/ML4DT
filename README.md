@@ -1,5 +1,12 @@
-# ML4DT
-A repository for the ML4DT work done by Ezequiel Alvarez, Federico Lamagna and Manuel Szewc
+# ML4DT: Machine Learning for Drug Therapies
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSzewc/ML4DT/master)
+
+A repository for 
+
+## A Machine Learning alternative to placebo-controlled clinical trials upon new diseases: A primer
+### Ezequiel Alvarez, Federico Lamagna , Manuel Szewc
+
 The script runs on Python, it requires the Keras package for the building and training of the Neural Networks.
 We include both the Jupyter notebook version and the plain Python script.
  
