@@ -1,5 +1,5 @@
 # ML4DT
-A repository for the ML4DT work done with Ezequiel Alvarez and Federico Lamagna
+A repository for the ML4DT work done by Ezequiel Alvarez, Federico Lamagna and Manuel Szewc
  
 In this repository we include the necessary files to reproduce plots present in our work /..arxiv-id/
 
