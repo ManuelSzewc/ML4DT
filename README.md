@@ -1,7 +1,8 @@
 # ML4DT
 A repository for the ML4DT work done by Ezequiel Alvarez, Federico Lamagna and Manuel Szewc
+The script runs on Python, it requires the Keras package for the building and training of the Neural Networks. 
  
-In this repository we include the necessary files to reproduce plots present in our work /..arxiv-id/
+In this repository we include the necessary files to reproduce plots present in article /arxiv-id/
 
 The main components are:
 
