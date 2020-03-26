@@ -113,7 +113,7 @@ pexpect==4.7.0
 pgdb==0.0.8
 pickleshare==0.7.5
 pid==2.1.1
-Pillow==5.3.0
+Pillow==6.2.0
 ply==3.9
 productmd==1.17
 prometheus-client==0.7.1
