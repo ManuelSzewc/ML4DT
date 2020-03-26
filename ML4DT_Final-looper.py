@@ -271,7 +271,7 @@ plt.xlabel('Health');
 plt.ylabel('Distribution');
 plt.xlim([0,1.01]);
 plt.legend(loc='upper right',framealpha=0.1);
-plt.savefig('draft/figs/f1final.png');
+plt.savefig('healthshape.png');
 plt.show()    
 
 
